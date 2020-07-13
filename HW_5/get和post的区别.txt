@@ -1,0 +1,2 @@
+1. get是把参数数据队列加到提交表单的ACTION属性所指的URL中，值和表单内各个字段对应，可以在URL中直接看到。
+2. post是通过HTTP post机制，将表单内各个字段与其内容放置在HTML HEADER内一起传送到ACTION属性所指的URL地址
